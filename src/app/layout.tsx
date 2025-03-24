@@ -1,5 +1,4 @@
 import { Inter } from 'next/font/google'
-import './globals.css'
 import { ReactNode } from 'react'
 import Navbar from '@/components/Navbar'
 
